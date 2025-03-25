@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaymarAguinaldo3
 - 👀 I’m interested in money
-- 🌱 I’m currently learning web development and Java 
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me? Simply DM me
 
